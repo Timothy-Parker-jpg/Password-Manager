@@ -1,0 +1,38 @@
+body {
+    background-image: url(images/IMG_1096.jpg);
+    background-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white; 
+}
+a {
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
+div {
+    font-family: Brush Script MT, cursive;
+    color: white;
+    height: 20px; 
+    width: 130px; 
+    position:relative; 
+    left: 1050px; 
+    bottom:120px; 
+    border-radius: 5px;
+}
+hr {
+    border-style: none none dotted;
+    width: 5%;
+    border-width: 5px;
+    color:white;
+}
+img {
+    width: 200px; 
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    position: relative; 
+    left: 600px;
+    border-style: solid;
+    border-color: white;
+}
